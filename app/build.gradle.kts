@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("jlox.App")
+    mainClass.set("jlox.Lox")
 }
 
 tasks.named<Test>("test") {
